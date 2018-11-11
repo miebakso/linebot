@@ -11,4 +11,6 @@
 |
 */
 
-
+Route::get('/test', function () {
+    return "asdasdas";
+};
